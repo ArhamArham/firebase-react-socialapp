@@ -1,0 +1,1 @@
+This Firebase-ReactSocial-App based on Social Website build using Firebase, CloudFirestore, Firebase Functions, Firebase Storage, React,Redux ,MaterialUi etc inspired by ‘Classed’ deployed on Heroku and developed by Arham Roshan Ar Copyrights © abrsoftwaretechnologies@gmail.com All Rights Reserved
